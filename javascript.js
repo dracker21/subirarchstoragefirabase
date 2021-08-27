@@ -35,14 +35,14 @@ const publish = async ({ file }) => {
 //api de firebase
 async function main() {
   // Your web app's Firebase configuration
-  var firebaseConfig = {
-    apiKey: "AIzaSyBsrMANgJF6FK5BYjTLAw5nFN4XyT0AtvM",
-    authDomain: "subir-archivo-ec861.firebaseapp.com",
-    projectId: "subir-archivo-ec861",
-    storageBucket: "subir-archivo-ec861.appspot.com",
-    messagingSenderId: "499320589541",
-    appId: "1:499320589541:web:a20b9ddfea101476a8980c",
-  };
+   var firebaseConfig = {
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    authDomain: "xxxx-xxxxxx-xxxx.firebaseapp.com",
+    projectId: "xxxx-xxxxx-xxxxxx",
+    storageBucket: "xxxx-xxxx-xxxxx.xxxxxxxcom",
+    messagingSenderId: "xxxxxxxxxxxxxxx",
+    appId: "1:xxxxxxxxxxxxxxxxx:web:xxxxxxxxxxxxxxxxxxxxxxxx",
+  }
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 
